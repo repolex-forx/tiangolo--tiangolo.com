@@ -1,0 +1,7 @@
+[2026-10-11T19:41:30Z] === AST ITERATION 1 START | repo=tiangolo/tiangolo.com sha=e61748bd ===
+[2026-10-11T19:41:30Z] [iter=1] PHASE START: ast repo=tiangolo/tiangolo.com sha=e61748bd
+[2026-10-11T19:41:30Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T19:41:33Z] [iter=1] AST chunks built count=1 triples=29575
+[2026-10-11T19:41:33Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e61748bd410ee51b2823c446a13fc1f04eef9bf3/.complete
+[2026-10-11T19:41:33Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-10-11T19:41:33Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
